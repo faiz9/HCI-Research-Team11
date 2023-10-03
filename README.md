@@ -112,7 +112,6 @@ In conclusion, we selected recycling and its awareness as our main topic. Our go
 
 
 
-
 # Milestone 2: Iterating on your Prototypes: Heuristic Evaluation
 
 The goals of this milestone:
@@ -155,7 +154,7 @@ The goals of this milestone:
 
 ### ●
 
-![Example Image](Assets/image16.png)
+![Example Image](Assets/image15.png)
 
 ○ Problem: The search results page is too plain. Each search result could contain a little more information for the user.
 ○ Who came up with the problem: Hector
@@ -164,13 +163,13 @@ The goals of this milestone:
 ○ Proposed Changes: Improve the UI, create card components for each search result with images.
 ○ Screenshot with change:
 
-![Example Image](Assets/image17.png)
+![Example Image](Assets/image16.png)
 
 ○ Problem:
 
 ### ●
 
-![Example Image](Assets/image18.png)
+![Example Image](Assets/image17.png)
 
 ● **Problem:** Inconsistent color scheme within pages. For instance, other pages on the app have a background color of light green. Here we have two pages in strong blue. Additionally, the text on the survey page is in white not providing contrast.
 ● **Who came up with the problem:** Syed
@@ -179,11 +178,11 @@ The goals of this milestone:
 ● **Proposed Changes:** Change the color to light green to all pages to make it consistent and align with the same color scheme. Change the survey label color to black for contrast and better visibility.
 **● Screenshot with change:**
 
-![Example Image](Assets/image19.png)
+![Example Image](Assets/image18.png)
 
 Problem 5: 
 
-![Example Image](Assets/image20.png)
+![Example Image](Assets/image18.png)
 
 ● Problem: Under the importance of recycling, the contents are articles but the user does not know.
 ● Who came up with the problem: Syed
@@ -193,12 +192,12 @@ Problem 5:
 ● Screenshot with change:
 
 
-![Example Image](Assets/image21.png)
+![Example Image](Assets/image19.png)
 
 Problem 6:
 
 
-![Example Image](Assets/image22.png)
+![Example Image](Assets/image20.png)
 
 ● Problem: Once the article is open there is no emergency exit for the user to go back.
 ● Who came up with the problem: Syed
@@ -207,10 +206,10 @@ Problem 6:
 ● Proposed Changes: Add an emergency exit or back button on the top left corner with contrast for the user to identify and exit once desired.
 ● Screenshot with change:
 
-![Example Image](Assets/image23.png)
+![Example Image](Assets/image21.png)
 
 
-![Example Image](Assets/image24.png)
+![Example Image](Assets/image22.png)
 
 **○ Problem:** fun fact is too dry and does not seem “fun”
 **○ Who came up with the problem:** Ron
@@ -219,12 +218,8 @@ Problem 6:
 **○ Proposed Changes:** Make it more graphic and have pictures to make it “fun”
 **○ Screenshot with change:** *still working on it*
 
-![Example Image](Assets/image25.png)
 
-
-
-
-![Example Image](Assets/image26.png)
+![Example Image](Assets/image23.png)
 
 **Problem:** Not enough color contrast on the News page
 
@@ -238,5 +233,4 @@ Problem 6:
 
 **Screenshot with changes:** In Progress
 
-![Example Image](Assets/image27.png)
 
