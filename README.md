@@ -121,33 +121,33 @@ The goals of this milestone:
 3. Individually determine how severe each problem is (from 0–4).
 4. As a group, discuss and aggregate problems and come to a consensus on severity ratings. Discuss the changes to be made to the prototype.
 5. Make the changes and submit an iterated version.
+
+
 ## Evaluations:
 
 ### ●
 
 ![Example Image](Assets/image12.png)
 
-○ Problem: There is no indication of which section of the app the user is on. This screenshot is of the homepage but it's visually unclear.
-○ Who came up with the problem: Hector
-○ Heuristics: #1 Visibility of System Status
-○ Severity: 2
-○ Proposed Changes: In the bottom menu, highlight the icon corresponding to the section of the app the user is currently on.
-○ Screenshot with change:
+- **Problem:** There is no indication of which section of the app the user is on. This screenshot is of the homepage but it's visually unclear.
+- **Who came up with the problem:** Hector
+- **Heuristics:** #1 Visibility of System Status
+- **Severity:** 2
+- **Proposed Changes:** In the bottom menu, highlight the icon corresponding to the section of the app the user is currently on.
+- **Screenshot with change:**
 
 ![Example Image](Assets/image13.png)
-
-
 
 ### ●
 
 ![Example Image](Assets/image14.png)
 
-○ Problem: When a user searches for how to recycle a certain item, there is no page to show search results or recommendations if the user's search yields no results.
-○ Who came up with the problem: Hector
-○ Heuristics: #3 User control and freedom, #5 Error Prevention
-○ Severity: 3
-○ Proposed Changes: Add an intermediary page to show search results and recommendations.
-○ Screenshot with change:
+- **Problem:** When a user searches for how to recycle a certain item, there is no page to show search results or recommendations if the user's search yields no results.
+- **Who came up with the problem:** Hector
+- **Heuristics:** #3 User control and freedom, #5 Error Prevention
+- **Severity:** 3
+- **Proposed Changes:** Add an intermediary page to show search results and recommendations.
+- **Screenshot with change:**
 
 ![Example Image](Assets/image15.png)
 
@@ -155,26 +155,25 @@ The goals of this milestone:
 
 ![Example Image](Assets/image15.png)
 
-○ Problem: The search results page is too plain. Each search result could contain a little more information for the user.
-○ Who came up with the problem: Hector
-○ Heuristics: #2 Match between system and real-world, #8 aesthetic and minimalist design
-○ Severity: 2
-○ Proposed Changes: Improve the UI, create card components for each search result with images.
-○ Screenshot with change:
+- **Problem:** The search results page is too plain. Each search result could contain a little more information for the user.
+- **Who came up with the problem:** Hector
+- **Heuristics:** #2 Match between system and real-world, #8 aesthetic and minimalist design
+- **Severity:** 2
+- **Proposed Changes:** Improve the UI, create card components for each search result with images.
+- **Screenshot with change:**
 
 ![Example Image](Assets/image16.png)
-
 
 ### ●
 
 ![Example Image](Assets/image17.png)
 
-○ Problem: Inconsistent color scheme within pages. For instance, other pages on the app have a background color of light green. Here we have two pages in strong blue. Additionally, the text on the survey page is in white not providing contrast.
-○ Who came up with the problem:  Syed
-○ Heuristics: #4 Consistency
-○ Severity: 3
-○ Proposed Changes: Change the color to light green to all pages to make it consistent and align with the same color scheme. Change the survey label color to black for contrast and better visibility.
-○ Screenshot with change:
+- **Problem:** Inconsistent color scheme within pages. For instance, other pages on the app have a background color of light green. Here we have two pages in strong blue. Additionally, the text on the survey page is in white not providing contrast.
+- **Who came up with the problem:** Syed
+- **Heuristics:** #4 Consistency
+- **Severity:** 3
+- **Proposed Changes:** Change the color to light green to all pages to make it consistent and align with the same color scheme. Change the survey label color to black for contrast and better visibility.
+- **Screenshot with change:**
 
 ![Example Image](Assets/image18.png)
 
@@ -182,29 +181,28 @@ The goals of this milestone:
 
 ![Example Image](Assets/image18.png)
 
-○ Problem: Under the importance of recycling, the contents are articles but the user does not know.
-○ Who came up with the problem: Syed
-○ Heuristics: #10 Help and Documentation
-○ Severity: 3
-○ Proposed Changes: Add below the article title in a smaller font “3 mins read”. It tells users it is an article and it is a short read to align with research survey results; users want to spend less than 5 minutes learning about recycling.
-○ Screenshot with change:
-
+- **Problem:** Under the importance of recycling, the contents are articles but the user does not know.
+- **Who came up with the problem:** Syed
+- **Heuristics:** #10 Help and Documentation
+- **Severity:** 3
+- **Proposed Changes:** Add below the article title in a smaller font “3 mins read”. It tells users it is an article and it is a short read to align with research survey results; users want to spend less than 5 minutes learning about recycling.
+- **Screenshot with change:**
 
 ![Example Image](Assets/image19.png)
 
 ### ●
 
-
 ![Example Image](Assets/image20.png)
 
-○ Problem: Once the article is open there is no emergency exit for the user to go back.
-○ Who came up with the problem: Syed
-○ Heuristics: #3 User in Control
-○ Severity: 4
-○ Proposed Changes: Add an emergency exit or back button on the top left corner with contrast for the user to identify and exit once desired.
-○ Screenshot with change:
+- **Problem:** Once the article is open there is no emergency exit for the user to go back.
+- **Who came up with the problem:** Syed
+- **Heuristics:** #3 User in Control
+- **Severity:** 4
+- **Proposed Changes:** Add an emergency exit or back button on the top left corner with contrast for the user to identify and exit once desired.
+- **Screenshot with change:**
 
 ![Example Image](Assets/image21.png)
+
 
 
 
