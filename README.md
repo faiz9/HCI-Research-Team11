@@ -121,7 +121,6 @@ The goals of this milestone:
 3. Individually determine how severe each problem is (from 0–4).
 4. As a group, discuss and aggregate problems and come to a consensus on severity ratings. Discuss the changes to be made to the prototype.
 5. Make the changes and submit an iterated version.
-
 ## Evaluations:
 
 ### ●
@@ -165,72 +164,47 @@ The goals of this milestone:
 
 ![Example Image](Assets/image16.png)
 
-○ Problem:
 
 ### ●
 
 ![Example Image](Assets/image17.png)
 
-● **Problem:** Inconsistent color scheme within pages. For instance, other pages on the app have a background color of light green. Here we have two pages in strong blue. Additionally, the text on the survey page is in white not providing contrast.
-● **Who came up with the problem:** Syed
-● **Heuristics:** #4 Consistency
-● **Severity:** 3
-● **Proposed Changes:** Change the color to light green to all pages to make it consistent and align with the same color scheme. Change the survey label color to black for contrast and better visibility.
-**● Screenshot with change:**
+○ Problem: Inconsistent color scheme within pages. For instance, other pages on the app have a background color of light green. Here we have two pages in strong blue. Additionally, the text on the survey page is in white not providing contrast.
+○ Who came up with the problem:  Syed
+○ Heuristics: #4 Consistency
+○ Severity: 3
+○ Proposed Changes: Change the color to light green to all pages to make it consistent and align with the same color scheme. Change the survey label color to black for contrast and better visibility.
+○ Screenshot with change:
 
 ![Example Image](Assets/image18.png)
 
-Problem 5: 
+### ●
 
 ![Example Image](Assets/image18.png)
 
-● Problem: Under the importance of recycling, the contents are articles but the user does not know.
-● Who came up with the problem: Syed
-● Heuristics: #10 Help and Documentation
-● Severity: 3
-● Proposed Changes: Add below the article title in a smaller font “3 mins read”. It tells users it is an article and it is a short read to align with research survey results; users want to spend less than 5 minutes learning about recycling.
-● Screenshot with change:
+○ Problem: Under the importance of recycling, the contents are articles but the user does not know.
+○ Who came up with the problem: Syed
+○ Heuristics: #10 Help and Documentation
+○ Severity: 3
+○ Proposed Changes: Add below the article title in a smaller font “3 mins read”. It tells users it is an article and it is a short read to align with research survey results; users want to spend less than 5 minutes learning about recycling.
+○ Screenshot with change:
 
 
 ![Example Image](Assets/image19.png)
 
-Problem 6:
+### ●
 
 
 ![Example Image](Assets/image20.png)
 
-● Problem: Once the article is open there is no emergency exit for the user to go back.
-● Who came up with the problem: Syed
-● Heuristics: #3 User in Control
-● Severity: 4
-● Proposed Changes: Add an emergency exit or back button on the top left corner with contrast for the user to identify and exit once desired.
-● Screenshot with change:
+○ Problem: Once the article is open there is no emergency exit for the user to go back.
+○ Who came up with the problem: Syed
+○ Heuristics: #3 User in Control
+○ Severity: 4
+○ Proposed Changes: Add an emergency exit or back button on the top left corner with contrast for the user to identify and exit once desired.
+○ Screenshot with change:
 
 ![Example Image](Assets/image21.png)
 
-
-![Example Image](Assets/image22.png)
-
-**○ Problem:** fun fact is too dry and does not seem “fun”
-**○ Who came up with the problem:** Ron
-**○ Heuristics:** #8 aesthetic and minimalist design
-**○ Severity:** 3
-**○ Proposed Changes:** Make it more graphic and have pictures to make it “fun”
-**○ Screenshot with change:** *still working on it*
-
-
-![Example Image](Assets/image23.png)
-
-**Problem:** Not enough color contrast on the News page
-
-**Problem author:** Adithya
-
-**Heuristic:** #8 Aesthetic and minimalist design
-
-**Severity** : 2
-
-**Proposed changes:** add more color contrast and animations to improve UI
-
-**Screenshot with changes:** In Progress
 
 
