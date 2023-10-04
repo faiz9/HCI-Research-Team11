@@ -240,6 +240,26 @@ Our participants were sent this survey https://forms.gle/ShnBN9tnA19ZAwK7A which
 
 Summary of our responses:
 
+![Example Image](Assets/image24.png)
+
+![Example Image](Assets/image25.png)
+
+![Example Image](Assets/image26.png)
+
+![Example Image](Assets/image27.png)
+
+![Example Image](Assets/image28.png)
+
+![Example Image](Assets/image29.png)
+
+![Example Image](Assets/image30.png)
+
+![Example Image](Assets/image31.png)
+
+![Example Image](Assets/image32.png)
+
+![Example Image](Assets/image33.png)
+
 ## Iteration details
 
 ### What did you learn from the usability test?
@@ -252,19 +272,25 @@ However, our most important feedback came from the testers that decided to leave
 
 #### Main pieces of feedback and the change they inspired for our prototype:
 
-#### ● Feedback: Our prototype flow was not complete, having some parts of the app
+#### ● Feedback: Our prototype flow was not complete, having some parts of the app inaccessible from outside the home screen
 
-#### inaccessible from outside the home screen
+![Example Image](Assets/image34.png)
+
+![Example Image](Assets/image28.png)
 
 #### ○ Change it inspired: Add the missing connections to our prototype.
 
-#### ● Feedback: A great suggestion from one of our testers to add a feature to scan items
+![Example Image](Assets/image35.png)
 
-#### instead of searching by name.
+#### ● Feedback: A great suggestion from one of our testers to add a feature to scan items instead of searching by name.
+
+![Example Image](Assets/image36.png)
 
 #### ○ Change it inspired: Add the feature!
 
-
+![Example Image](Assets/image37.png)
+![Example Image](Assets/image38.png)
+![Example Image](Assets/image39.png)
 
 
 
