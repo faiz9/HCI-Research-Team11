@@ -206,3 +206,71 @@ The goals of this milestone:
 
 
 
+
+# Recycling App Usability Testing
+
+https://www.figma.com/file/IQUmGxregK8QhEbqOhtIPv/Daily-Feed?type=design&node-id=0% A1&t=KftYZbJUfp5d9JUj-
+
+## Details of our usability test
+
+## What were the tasks?
+
+**1. Find detailed information about how to recycle a milk carton**
+    a. User data: the task is based upon: Convenience is the decisive factor for most people to recycle properly, if at all.
+    b. Task design: The app homepage emphasizes the “How to recycle item” search bar to make it as convenient as possible for people to find the correct way to dispose of an item that they would otherwise have thrown in the trash.
+
+**2. Find and open an article about official government information related to recycling**
+
+	a. User data: the task is based upon: Our participants emphasized the need for more government support to make it easier for people to recycle.
+    b. Task design: The “Resources” tab contains a collection of official resources related to recycling, such as Recology’s FAQ page. Testers need only a couple of taps to access this information.
+
+**3. Find and open an article about the benefits of recycling**
+
+	a. User data:  the task is based upon: One reason some people don’t recycle is because they’re either unaware or indifferent about the importance of recycling.
+    b. Task design: The “Awareness” tab contains information about the different aspects of the importance of recycling (environmental, social, even opportunities to make money by recycling). The idea is for users to be drawn to this section of the app, and for them to spread awareness and the information they learn here to their peers.
+
+
+## Who completed them?
+
+Friends and family of our team members. Since recycling is relevant to the general population, we were able to test our prototype with essentially anyone.
+
+## What feedback did you get from your participants?
+
+Our participants were sent this survey https://forms.gle/ShnBN9tnA19ZAwK7A which contains a subset of the questions from https://garyperlman.com/quest/quest.cgi?form=QUIS.
+
+Summary of our responses:
+
+## Iteration details
+
+### What did you learn from the usability test?
+
+Our testers had an overall positive reaction to the prototype. With most of our questions having answers ranging 7-9 (9 being the most positive reaction). While our participants might have lowered their expectations given that they were testing only a prototype and not a finished product, it seems that our design is headed in the right direction.
+
+However, our most important feedback came from the testers that decided to leave a message with some great observations and suggestions.
+
+### What changes did you eventually make on your prototype?
+
+#### Main pieces of feedback and the change they inspired for our prototype:
+
+#### ● Feedback: Our prototype flow was not complete, having some parts of the app
+
+#### inaccessible from outside the home screen
+
+#### ○ Change it inspired: Add the missing connections to our prototype.
+
+#### ● Feedback: A great suggestion from one of our testers to add a feature to scan items
+
+#### instead of searching by name.
+
+#### ○ Change it inspired: Add the feature!
+
+
+
+
+
+
+
+
+
+
+
